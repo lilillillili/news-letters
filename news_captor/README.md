@@ -5,7 +5,6 @@ news_link.txt 에 기사 링크를 올리면 news_data.xlsx 로 링크, 기사�
 
 ## 🛠️ 기술 스택
 - Python 3.7
-- HTML5
 
 ## 🎯 설치 및 실행 방법
 1. Python 라이브러리 설치:
